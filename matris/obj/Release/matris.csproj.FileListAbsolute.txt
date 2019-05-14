@@ -1,0 +1,4 @@
+C:\Users\PC\Desktop\matris\matris\obj\Release\matris.Form1.resources
+C:\Users\PC\Desktop\matris\matris\obj\Release\matris.Properties.Resources.resources
+C:\Users\PC\Desktop\matris\matris\obj\Release\matris.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\matris\matris\obj\Release\matris.csproj.CoreCompileInputs.cache
